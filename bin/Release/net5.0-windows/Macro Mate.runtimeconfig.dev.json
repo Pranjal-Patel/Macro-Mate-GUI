@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SATYENDRA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SATYENDRA\\.nuget\\packages"
+    ]
+  }
+}
